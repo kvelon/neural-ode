@@ -1,0 +1,7 @@
+neural\-ode module
+==================
+
+.. automodule:: neural-ode
+   :members:
+   :undoc-members:
+   :show-inheritance:
